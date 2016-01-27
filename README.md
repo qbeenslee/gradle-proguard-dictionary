@@ -7,9 +7,11 @@
 -obfuscationdictionary dictionary.txt
 ```
 
+[了解详情移步我的博客](http://qbeenslee.com/2016/01/27/about-wandoujia-proguard-config/)
+
 ## 效果
 
-![混淆效果]()
+![混淆效果](https://raw.githubusercontent.com/qbeenslee/gradle-proguard-hehe-dictionary/master/snapshot/jadx-gui%20-%20eyepetizer-eyepetizer_web.apk%20JadxGUI%2C%20今天%20at%2012.19.09.png)
 
 ## Licenses
 
