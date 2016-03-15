@@ -7,7 +7,7 @@
 -obfuscationdictionary dictionary.txt
 ```
 
-[了解详情移步我的博客](http://qbeenslee.com/2016/01/27/about-wandoujia-proguard-config/)
+[了解详情移步我的博客](http://qbeenslee.com/article/about-wandoujia-proguard-config/)
 
 ## 效果
 
