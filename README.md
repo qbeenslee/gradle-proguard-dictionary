@@ -11,7 +11,7 @@
 
 ## 效果
 
-![混淆效果](https://raw.githubusercontent.com/qbeenslee/gradle-proguard-hehe-dictionary/master/snapshot/eyepetizer-eyepetizer_web.jpg)
+![混淆效果](https://raw.githubusercontent.com/qbeenslee/ART/master/gradle-proguard-dictionary/1.png)
 
 ## Licenses
 
