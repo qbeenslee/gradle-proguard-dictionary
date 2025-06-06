@@ -13,6 +13,14 @@
 
 ![混淆效果](https://raw.githubusercontent.com/qbeenslee/ART/master/gradle-proguard-dictionary/1.png)
 
+## 🏢 赞助
+
+感谢以下赞助商支持本项目的开发：
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
+
+
 ## Licenses
 
 ```
